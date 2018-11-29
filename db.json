@@ -1,3 +1,5 @@
 {
-  "smartthings": []
+  "smartthings": [{
+      "id": 1
+  }]
 }
